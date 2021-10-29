@@ -1,5 +1,8 @@
 # Layout.
 1)Paleta de cores
+
+![image](https://user-images.githubusercontent.com/79875609/139508810-82366748-1159-4617-bff1-f622e68e5b38.png)
+
  
 2)Fonte escolhida
 Fonte: games
